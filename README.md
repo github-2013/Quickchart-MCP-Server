@@ -1,3 +1,5 @@
+## 修复quickchart-mcp-server无法在vscode使用的缺陷
+
 # quickchart-server MCP Server
 
 ![image](https://github.com/user-attachments/assets/1093570f-7c6b-4e5f-ad69-f8a9f950376a)
