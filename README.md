@@ -1,4 +1,6 @@
-## 修复quickchart-mcp-server无法在vscode使用的缺陷
+# 修复quickchart-mcp-server无法在vscode使用的缺陷
+
+---
 
 # quickchart-server MCP Server
 
@@ -93,7 +95,7 @@ npm run build
 ### Installing
 
  ```bash
- npm install @gongrzhe/quickchart-mcp-server
+ npm install @xingjiexu/quickchart-mcp-server
  ```
 
 ### Installing via Smithery
@@ -101,7 +103,7 @@ npm run build
  To install QuickChart Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@GongRzhe/Quickchart-MCP-Server):
  
  ```bash
- npx -y @smithery/cli install @gongrzhe/quickchart-mcp-server --client claude
+ npx -y @smithery/cli install @xingjiexu/quickchart-mcp-server --client claude
  ```
 
 To use with Claude Desktop, add the server config:
@@ -129,7 +131,7 @@ or
       "command": "npx",
       "args": [
         "-y",
-        "@gongrzhe/quickchart-mcp-server"
+        "@xingjiexu/quickchart-mcp-server"
       ]
     }
   }

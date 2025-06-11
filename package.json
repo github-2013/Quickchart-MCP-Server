@@ -23,13 +23,13 @@
     "chart",
     "data-visualization"
   ],
-  "author": "gongrzhe",
+  "author": "xingjiexu",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GongRzhe/Quickchart-MCP-Server"
+    "url": "https://github.com/github-2013/Quickchart-MCP-Server"
   },
-  "homepage": "https://github.com/GongRzhe/Quickchart-MCP-Server#readme",
+  "homepage": "https://github.com/github-2013/Quickchart-MCP-Server#readme",
   "publishConfig": {
     "access": "public"
   },
